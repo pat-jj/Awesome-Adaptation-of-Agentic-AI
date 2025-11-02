@@ -29,6 +29,7 @@ A curated list of papers on adaptation strategies for agentic AI systems. This r
 | 2024.10 | LeReT | Grounding by Trying: LLMs with Reinforcement Learning-Enhanced Retrieval | ICLR'25 | [paper](https://arxiv.org/abs/2410.23214) | [code](https://github.com/sher222/LeReT) |
 | 2024.09 | ToolFlow | ToolFlow: Boosting LLM Tool-Calling Through Natural and Coherent Dialogue Synthesis | NAACL'25 | [paper](https://arxiv.org/abs/2410.18447) | - |
 | 2024.06 | RLEF | RLEF: Grounding Code LLMs in Execution Feedback with Reinforcement Learning | ICML'25 | [paper](https://arxiv.org/abs/2410.02089) | - |
+| 2024.06 | ToolPrefer LLaMA | Advancing Tool-Augmented Large Language Models: Integrating Insights from Errors in Inference Trees | NeurIPS'24 | [paper](https://arxiv.org/abs/2406.07115) | - |
 | 2024.03 | AutoTools | Tool Learning in the Wild: Empowering Language Models as Automatic Tool Agents | WWW'25 | [paper](https://arxiv.org/abs/2405.16533) | [code](https://github.com/mangopy/AutoTools) |
 | 2024.01 | NExT | NExT: Teaching Large Language Models to Reason about Code Execution | ICML'24 | [paper](https://arxiv.org/abs/2404.14662) | [code](https://github.com/neulab/next) |
 | 2023.07 | ToolLLM | ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs | ICLR'24 | [paper](https://arxiv.org/abs/2307.16789) | [code](https://github.com/OpenBMB/ToolBench) |
