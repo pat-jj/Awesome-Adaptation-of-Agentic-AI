@@ -15,5 +15,17 @@
 
 ## Agent Adaptation
 
+### A1: Tool Execution Signaled
+
+### A2: Agent Output Signaled
+
 
 ## Tool Adaptation
+
+### T1: Agent-Agnostic Tool Adaptation
+
+### T2: Agent-Supervised Tool Adaptation
+
+| Year.Month | Method Name | Paper Name | Venue | Paper Link | Github Link |
+|:-----------:|:-----------:|-----------|:-----------:|:-----------:|:-----------:|
+| 2025.05| s3 | s3: You Don't Need That Much Data to Train a Search Agent via RL | EMNLP'25 | [paper](https://arxiv.org/pdf/2505.14146) | [code](https://github.com/pat-jj/s3) |
