@@ -126,29 +126,27 @@ Methods that adapt agents using signals from agent outputs, organized by whether
 
 #### Foundational Systems and Architectures
 
-| Year.Month | Method Name | Paper Name | Venue | Paper Link | Github Link |
-|:-----------:|:-----------:|-----------|:-----------:|:-----------:|:-----------:|
-| 2023.XX | Neural Operators | Neural Operator: Learning Maps Between Function Spaces | JMLR'23 | [paper](https://jmlr.org/papers/v24/21-1524.html) | - |
-| 2023.09 | HuggingGPT | HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face | NeurIPS'23 | [paper](https://arxiv.org/abs/2303.17580) | [code](https://github.com/microsoft/JARVIS) |
-| 2023.08 | ViperGPT | ViperGPT: Visual Inference via Python Execution for Reasoning | ICCV'23 | [paper](https://arxiv.org/abs/2303.08128) | [code](https://github.com/cvlab-columbia/viper) |
-| 2025.XX | SciToolAgent | SciToolAgent: A Knowledge-Graph-Driven Scientific Agent for Multitool Integration | Nature Comp. Sci.'25 | [paper](https://www.nature.com/articles/s43588-025-00748-w) | - |
-
+| Year.Month | Method Name | Venue | Paper Name |
+|:-----------:|:-----------:|:-----------|:-----------|
+| 2021.08 | Neural Operators | JMLR'23<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://jmlr.org/papers/v24/21-1524.html) | Neural Operator: Learning Maps Between Function Spaces |
+| 2023.09 | HuggingGPT | NeurIPS'23<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2303.17580)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/microsoft/JARVIS) | HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face |
+| 2023.08 | ViperGPT | ICCV'23<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2303.08128)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/cvlab-columbia/viper) | ViperGPT: Visual Inference via Python Execution for Reasoning |
+| 2025.07 | SciToolAgent | Nature Comp. Sci.'25<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2507.20280) | SciToolAgent: A Knowledge-Graph-Driven Scientific Agent for Multitool Integration |
 #### Categories and Training Methods
 
-| Year.Month | Method Name | Paper Name | Venue | Paper Link | Github Link |
-|:-----------:|:-----------:|-----------|:-----------:|:-----------:|:-----------:|
-| 2021.01 | CLIP | Learning Transferable Visual Models from Natural Language Supervision | ICML'21 | [paper](https://arxiv.org/abs/2103.00020) | [code](https://github.com/openai/CLIP) |
-| 2023.04 | SAM | Segment Anything | ICCV'23 | [paper](https://arxiv.org/abs/2304.02643) | [code](https://github.com/facebookresearch/segment-anything) |
-| 2024.06 | SAM-CLIP | SAM-CLIP: Merging Vision Foundation Models Towards Semantic and Spatial Understanding | CVPR'24 | [paper](https://arxiv.org/abs/2310.15308) | - |
-| 2023.12 | Whisper | Robust Speech Recognition via Large-Scale Weak Supervision | ICML'23 | [paper](https://arxiv.org/abs/2212.04356) | [code](https://github.com/openai/whisper) |
-| 2024.10 | CodeAct | Executable Code Actions Elicit Better LLM Agents | ICML'24 | [paper](https://arxiv.org/abs/2402.01030) | [code](https://github.com/xingyaoww/code-act) |
-| 2020.04 | DPR | Dense Passage Retrieval for Open-Domain Question Answering | EMNLP'20 | [paper](https://arxiv.org/abs/2004.04906) | [code](https://github.com/facebookresearch/DPR) |
-| 2020.04 | ColBERT | ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT | SIGIR'20 | [paper](https://arxiv.org/abs/2004.12832) | [code](https://github.com/stanford-futuredata/ColBERT) |
-| 2021.12 | Contriever | Unsupervised Dense Information Retrieval with Contrastive Learning | TMLR'22 | [paper](https://arxiv.org/abs/2112.09118) | [code](https://github.com/facebookresearch/contriever) |
-| 2022.12 | e5 | Text Embeddings by Weakly-Supervised Contrastive Pre-training | arXiv | [paper](https://arxiv.org/abs/2212.03533) | [code](https://github.com/microsoft/unilm/tree/master/e5) |
-| 2021.07 | AlphaFold2 | Highly Accurate Protein Structure Prediction with AlphaFold | Nature | [paper](https://www.nature.com/articles/s41586-021-03819-2) | [code](https://github.com/deepmind/alphafold) |
-| 2023.03 | ESMFold | Evolutionary-Scale Prediction of Atomic-Level Protein Structure with a Language Model | Science | [paper](https://www.science.org/doi/10.1126/science.ade2574) | - |
-
+| Year.Month | Method Name | Venue | Paper Name |
+|:-----------:|:-----------:|:-----------|:-----------|
+| 2021.01 | CLIP | ICML'21<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2103.00020)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/openai/CLIP) | Learning Transferable Visual Models from Natural Language Supervision |
+| 2023.04 | SAM | ICCV'23<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2304.02643)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/facebookresearch/segment-anything) | Segment Anything |
+| 2024.06 | SAM-CLIP | CVPR'24<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2310.15308) | SAM-CLIP: Merging Vision Foundation Models Towards Semantic and Spatial Understanding |
+| 2023.12 | Whisper | ICML'23<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2212.04356)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision |
+| 2024.10 | CodeAct | ICML'24<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2402.01030)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/xingyaoww/code-act) | Executable Code Actions Elicit Better LLM Agents |
+| 2020.04 | DPR | EMNLP'20<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2004.04906)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/facebookresearch/DPR) | Dense Passage Retrieval for Open-Domain Question Answering |
+| 2020.04 | ColBERT | SIGIR'20<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2004.12832)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/stanford-futuredata/ColBERT) | ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT |
+| 2021.12 | Contriever | TMLR'22<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2112.09118)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/facebookresearch/contriever) | Unsupervised Dense Information Retrieval with Contrastive Learning |
+| 2022.12 | e5 | arXiv<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2212.03533)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/microsoft/unilm/tree/master/e5) | Text Embeddings by Weakly-Supervised Contrastive Pre-training |
+| 2021.07 | AlphaFold2 | Nature<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://www.nature.com/articles/s41586-021-03819-2)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/deepmind/alphafold) | Highly Accurate Protein Structure Prediction with AlphaFold |
+| 2023.03 | ESMFold | Science<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://www.science.org/doi/10.1126/science.ade2574) | Evolutionary-Scale Prediction of Atomic-Level Protein Structure with a Language Model |
 ---
 
 ### T2: Agent-Supervised Tool Adaptation
