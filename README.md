@@ -1,6 +1,6 @@
-# Awesome Adaptation for Agentic AI
+# Awesome Adaptation in Agentic AI
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Stars](https://img.shields.io/github/stars/pat-jj/Awesome-Adaptation-for-Agentic-AI?style=social)](https://img.shields.io/github/stars/pat-jj/Awesome-Adaptation-for-Agentic-AI?style=social)
+[![Stars](https://img.shields.io/github/stars/pat-jj/Awesome-Adaptation-in-Agentic-AI?style=social)](https://img.shields.io/github/stars/pat-jj/Awesome-Adaptation-in-Agentic-AI?style=social)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
 
@@ -8,7 +8,7 @@
     <img src="images/intro.png" width="100%" style="align:center;"/>
 </p>
 
-A curated list of papers on adaptation strategies for agentic AI systems. This repository accompanies the survey paper "Adaptation for Agentic AI: A Survey and Roadmap".
+A curated list of papers on adaptation strategies in agentic AI systems. This repository accompanies the survey paper "Adaptation in Agentic AI: A Survey and Roadmap".
 
 ## Table of Contents
 - [Agent Adaptation](#agent-adaptation)
