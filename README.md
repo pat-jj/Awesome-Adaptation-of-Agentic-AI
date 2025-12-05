@@ -10,6 +10,19 @@
 
 A curated list of papers on adaptation strategies in agentic AI systems. This repository accompanies the survey paper "Adaptation in Agentic AI: A Survey and Roadmap".
 
+**Cite this paper:**
+```
+@article{jiang2025adaptation,
+  title        = {Adaptation of Agentic AI},
+  author       = {Jiang, Pengcheng and Lin, Jiacheng and Shi, Zhiyi and Wang, Zifeng and He, Luxi and Lu, Pan and Wu, Yichen and Wang, Heng and Zhang, Dylan and Xu, Xueqiang and Sun, Jiashuo and Xu, Hanwen and Qian, Kun and Wang, Tian and Li, Manling and Li, Quanzheng and Wang, Sheng and Peng, Hao and You, Jiaxuan and Liu, Liyuan and Zhang, Yu and Ji, Heng and Zou, James and Choi, Yejin and Sun, Jimeng and Han, Jiawei},
+  howpublished = {https://github.com/pat-jj/Awesome-Adaptation-of-Agentic-AI}
+  year         = {2025}
+}
+```
+
+
+
+
 ## Table of Contents
 - [Agent Adaptation](#agent-adaptation)
   - [A1: Tool Execution Signaled](#a1-tool-execution-signaled)
