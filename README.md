@@ -15,7 +15,7 @@ A curated list of papers on adaptation strategies of agentic AI systems. This re
 ```
 @article{jiang2025adaptation,
   title        = {Adaptation of Agentic AI},
-  author       = {Jiang, Pengcheng and Lin, Jiacheng and Shi, Zhiyi and Wang, Zifeng and He, Luxi and Lu, Pan and Wu, Yichen and Wang, Heng and Zhang, Dylan and Xu, Xueqiang and Sun, Jiashuo and Xu, Hanwen and Qian, Kun and Wang, Tian and Li, Manling and Li, Quanzheng and Wang, Sheng and Peng, Hao and You, Jiaxuan and Liu, Liyuan and Zhang, Yu and Ji, Heng and Zou, James and Choi, Yejin and Sun, Jimeng and Han, Jiawei},
+  author       = {Jiang, Pengcheng and Lin, Jiacheng and Shi, Zhiyi and Wang, Zifeng and He, Luxi and Lu, Pan and Wu, Yichen and Wang, Heng and Zhang, Dylan and Xu, Xueqiang and Sun, Jiashuo and Xu, Hanwen and Qian, Kun and Wang, Tian and Li, Manling and Li, Quanzheng and Wang, Sheng and Peng, Hao and You, Jiaxuan and Liu, Liyuan and Zhang, Yu and Ji, Heng and Choi, Yejin and Sun, Jimeng and Han, Jiawei},
   howpublished = {https://github.com/pat-jj/Awesome-Adaptation-of-Agentic-AI},
   year         = {2025}
 }
@@ -205,7 +205,7 @@ If you find this repository useful, please consider citing our survey:
 ```
 @article{jiang2025adaptation,
   title        = {Adaptation of Agentic AI},
-  author       = {Jiang, Pengcheng and Lin, Jiacheng and Shi, Zhiyi and Wang, Zifeng and He, Luxi and Lu, Pan and Wu, Yichen and Wang, Heng and Zhang, Dylan and Xu, Xueqiang and Sun, Jiashuo and Xu, Hanwen and Qian, Kun and Wang, Tian and Li, Manling and Li, Quanzheng and Wang, Sheng and Peng, Hao and You, Jiaxuan and Liu, Liyuan and Zhang, Yu and Ji, Heng and Zou, James and Choi, Yejin and Sun, Jimeng and Han, Jiawei},
+  author       = {Jiang, Pengcheng and Lin, Jiacheng and Shi, Zhiyi and Wang, Zifeng and He, Luxi and Lu, Pan and Wu, Yichen and Wang, Heng and Zhang, Dylan and Xu, Xueqiang and Sun, Jiashuo and Xu, Hanwen and Qian, Kun and Wang, Tian and Li, Manling and Li, Quanzheng and Wang, Sheng and Peng, Hao and You, Jiaxuan and Liu, Liyuan and Zhang, Yu and Ji, Heng and Choi, Yejin and Sun, Jimeng and Han, Jiawei},
   howpublished = {https://github.com/pat-jj/Awesome-Adaptation-of-Agentic-AI},
   year         = {2025}
 }
