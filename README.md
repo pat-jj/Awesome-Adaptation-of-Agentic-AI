@@ -9,7 +9,7 @@
     <img src="images/intro.png" width="100%" style="align:center;"/>
 </p>
 
-A curated list of papers on adaptation strategies in agentic AI systems. This repository accompanies the survey paper "Adaptation in Agentic AI: A Survey and Roadmap".
+A curated list of papers on adaptation strategies of agentic AI systems. This repository accompanies the paper "Adaptation of Agentic AI".
 
 **Cite this paper:**
 ```
