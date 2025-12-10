@@ -16,7 +16,7 @@ A curated list of papers on adaptation strategies of agentic AI systems. This re
 ```
 @article{jiang2025adaptation,
   title        = {Adaptation of Agentic AI},
-  author       = {Jiang, Pengcheng and Lin, Jiacheng and Shi, Zhiyi and Wang, Zifeng and He, Luxi and Lu, Pan and Wu, Yichen and Wang, Heng and Zhang, Dylan and Xu, Xueqiang and Sun, Jiashuo and Xu, Hanwen and Qian, Kun and Wang, Tian and Zhong, Ming and Li, Manling and Li, Quanzheng and Wang, Sheng and Peng, Hao and You, Jiaxuan and Liu, Liyuan and Zhang, Yu and Ji, Heng and Choi, Yejin and Sun, Jimeng and Han, Jiawei},
+  author       = {Jiang, Pengcheng and Lin, Jiacheng and Shi, Zhiyi and Wang, Zifeng and He, Luxi and Wu, Yichen and Zhang, Qizheng and Song, Peiyang and Wang, Heng and Xu, Xueqiang and Xu, Hanwen and Han, Pengrui and Zhang, Dylan and Sun, Jiashuo and Yang, Chaoqi and Qian, Kun and Wang, Tian and Zhong, Ming and Hu, Changran and Li, Manling and Li, Quanzheng and Wang, Sheng and Peng, Hao and You, Jiaxuan and Liu, Liyuan and Lu, Pan and Zhang, Yu and Ji, Heng and Choi, Yejin and Song, Dawn and Sun, Jimeng and Han, Jiawei},
   howpublished = {https://github.com/pat-jj/Awesome-Adaptation-of-Agentic-AI},
   year         = {2025}
 }
@@ -39,7 +39,9 @@ A curated list of papers on adaptation strategies of agentic AI systems. This re
 
 ### A1: Tool Execution Signaled
 
-Earlier methods using Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO), along with recent on-policy reinforcement learning approaches.
+<p align="center">
+    <img src="images/a1_timeline.png" width="100%" style="align:center;"/>
+</p>
 
 #### RL-based Methods
 
@@ -86,7 +88,9 @@ Earlier methods using Supervised Fine-Tuning (SFT) and Direct Preference Optimiz
 
 ### A2: Agent Output Signaled
 
-Methods that adapt agents using signals from agent outputs, organized by whether they use external tools.
+<p align="center">
+    <img src="images/a2_timeline.png" width="100%" style="align:center;"/>
+</p>
 
 
 #### Methods with Tools
@@ -166,7 +170,9 @@ Methods that adapt agents using signals from agent outputs, organized by whether
 
 ### T2: Agent-Supervised Tool Adaptation
 
-Methods for adapting tools using agent supervision signals.
+<p align="center">
+    <img src="images/t2_timeline.png" width="100%" style="align:center;"/>
+</p>
 
 | Time | Method | Venue | Task(s) | Tool Backbone | Agent Backbone | Tuning |
 |------|--------|-------|---------|---------------|----------------|--------|
@@ -206,7 +212,7 @@ If you find this repository useful, please consider citing our survey:
 ```
 @article{jiang2025adaptation,
   title        = {Adaptation of Agentic AI},
-  author       = {Jiang, Pengcheng and Lin, Jiacheng and Shi, Zhiyi and Wang, Zifeng and He, Luxi and Lu, Pan and Wu, Yichen and Wang, Heng and Zhang, Dylan and Xu, Xueqiang and Sun, Jiashuo and Xu, Hanwen and Qian, Kun and Wang, Tian and Zhong, Mingand Li, Manling and Li, Quanzheng and Wang, Sheng and Peng, Hao and You, Jiaxuan and Liu, Liyuan and Zhang, Yu and Ji, Heng and Choi, Yejin and Sun, Jimeng and Han, Jiawei},
+  author       = {Jiang, Pengcheng and Lin, Jiacheng and Shi, Zhiyi and Wang, Zifeng and He, Luxi and Wu, Yichen and Zhang, Qizheng and Song, Peiyang and Wang, Heng and Xu, Xueqiang and Xu, Hanwen and Han, Pengrui and Zhang, Dylan and Sun, Jiashuo and Yang, Chaoqi and Qian, Kun and Wang, Tian and Zhong, Ming and Hu, Changran and Li, Manling and Li, Quanzheng and Wang, Sheng and Peng, Hao and You, Jiaxuan and Liu, Liyuan and Lu, Pan and Zhang, Yu and Ji, Heng and Choi, Yejin and Song, Dawn and Sun, Jimeng and Han, Jiawei},
   howpublished = {https://github.com/pat-jj/Awesome-Adaptation-of-Agentic-AI},
   year         = {2025}
 }
