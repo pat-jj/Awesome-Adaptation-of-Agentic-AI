@@ -20,7 +20,6 @@ A curated list of papers on adaptation strategies of agentic AI systems. This re
   howpublished = {https://github.com/pat-jj/Awesome-Adaptation-of-Agentic-AI},
   year         = {2025}
 }
-
 ```
 
 
