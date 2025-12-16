@@ -38,8 +38,14 @@ A curated list of papers on adaptation strategies of agentic AI systems. This re
 
 ## Agent Adaptation
 
-### A1: Tool Execution Signaled
+### A1: Tool Execution Signaled Agent Adaptation
 
+
+<p align="center">
+    <img src="images/a1_illustrate.png" width="100%" style="align:center;"/>
+</p>
+
+Development Timeline:
 <p align="center">
     <img src="images/a1_timeline.png" width="100%" style="align:center;"/>
 </p>
@@ -87,8 +93,16 @@ A curated list of papers on adaptation strategies of agentic AI systems. This re
 
 ---
 
-### A2: Agent Output Signaled
+<br>
+<br>
 
+### A2: Agent Output Signaled Agent Adaptation
+
+<p align="center">
+    <img src="images/a2_illustrate.png" width="100%" style="align:center;"/>
+</p>
+
+Development Timeline:
 <p align="center">
     <img src="images/a2_timeline.png" width="100%" style="align:center;"/>
 </p>
@@ -143,6 +157,10 @@ A curated list of papers on adaptation strategies of agentic AI systems. This re
 ## Tool Adaptation
 
 ### T1: Agent-Agnostic Tool Adaptation
+<p align="center">
+    <img src="images/t1_illustrate.png" width="100%" style="align:center;"/>
+</p>
+
 
 #### Foundational Systems and Architectures
 
@@ -169,8 +187,16 @@ A curated list of papers on adaptation strategies of agentic AI systems. This re
 | 2023.03 | ESMFold | Science<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://www.science.org/doi/10.1126/science.ade2574) | Evolutionary-Scale Prediction of Atomic-Level Protein Structure with a Language Model |
 ---
 
+<br>
+<br>
+
 ### T2: Agent-Supervised Tool Adaptation
 
+<p align="center">
+    <img src="images/t2_illustrate.png" width="100%" style="align:center;"/>
+</p>
+
+Development Timeline:
 <p align="center">
     <img src="images/t2_timeline.png" width="100%" style="align:center;"/>
 </p>
