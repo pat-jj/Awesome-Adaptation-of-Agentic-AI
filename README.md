@@ -3,8 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/pat-jj/Awesome-Adaptation-of-Agentic-AI?style=social)](https://img.shields.io/github/stars/pat-jj/Awesome-Adaptation-of-Agentic-AI?style=social)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
-[![arXiv](https://img.shields.io/badge/Paper-PDF-b31b1b.svg)](https://github.com/pat-jj/Awesome-Adaptation-of-Agentic-AI/blob/main/paper.pdf)
-
+[![arXiv](https://img.shields.io/badge/arXiv-2512.16301-b31b1b.svg)](https://arxiv.org/abs/2512.16301)
 
 <p align="center">
     <img src="images/intro.png" width="100%" style="align:center;"/>
