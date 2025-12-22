@@ -14,10 +14,10 @@ A curated list of papers on adaptation strategies of agentic AI systems. This re
 **Cite this paper:**
 ```
 @article{jiang2025adaptation,
-  title        = {Adaptation of Agentic AI},
-  author       = {Jiang, Pengcheng and Lin, Jiacheng and Shi, Zhiyi and Wang, Zifeng and He, Luxi and Wu, Yichen and Zhong, Ming and Song, Peiyang and Zhang, Qizheng and Wang, Heng and Xu, Xueqiang and Xu, Hanwen and Han, Pengrui and Zhang, Dylan and Sun, Jiashuo and Yang, Chaoqi and Qian, Kun and Wang, Tian and Hu, Changran and Li, Manling and Li, Quanzheng and Peng, Hao and Wang, Sheng and Shang, Jingbo and Zhang, Chao and You, Jiaxuan and Liu, Liyuan and Lu, Pan and Zhang, Yu and Ji, Heng and Choi, Yejin and Song, Dawn and Sun, Jimeng and Han, Jiawei},
-  howpublished = {https://github.com/pat-jj/Awesome-Adaptation-of-Agentic-AI},
-  year         = {2025}
+  title={Adaptation of Agentic AI},
+  author={Jiang, Pengcheng and Lin, Jiacheng and Shi, Zhiyi and Wang, Zifeng and He, Luxi and Wu, Yichen and Zhong, Ming and Song, Peiyang and Zhang, Qizheng and Wang, Heng and others},
+  journal={arXiv preprint arXiv:2512.16301},
+  year={2025}
 }
 ```
 
@@ -244,10 +244,10 @@ If you find this repository useful, please consider citing our survey:
 
 ```
 @article{jiang2025adaptation,
-  title        = {Adaptation of Agentic AI},
-  author       = {Jiang, Pengcheng and Lin, Jiacheng and Shi, Zhiyi and Wang, Zifeng and He, Luxi and Wu, Yichen and Zhong, Ming and Song, Peiyang and Zhang, Qizheng and Wang, Heng and Xu, Xueqiang and Xu, Hanwen and Han, Pengrui and Zhang, Dylan and Sun, Jiashuo and Yang, Chaoqi and Qian, Kun and Wang, Tian and Hu, Changran and Li, Manling and Li, Quanzheng and Peng, Hao and Wang, Sheng and Shang, Jingbo and Zhang, Chao and You, Jiaxuan and Liu, Liyuan and Lu, Pan and Zhang, Yu and Ji, Heng and Choi, Yejin and Song, Dawn and Sun, Jimeng and Han, Jiawei},
-  howpublished = {https://github.com/pat-jj/Awesome-Adaptation-of-Agentic-AI},
-  year         = {2025}
+  title={Adaptation of Agentic AI},
+  author={Jiang, Pengcheng and Lin, Jiacheng and Shi, Zhiyi and Wang, Zifeng and He, Luxi and Wu, Yichen and Zhong, Ming and Song, Peiyang and Zhang, Qizheng and Wang, Heng and others},
+  journal={arXiv preprint arXiv:2512.16301},
+  year={2025}
 }
 ```
 
