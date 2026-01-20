@@ -82,6 +82,7 @@ Development Timeline:
 
 | Time | Method | Venue | Task(s) | Tool(s) | Agent Backbone | Tuning |
 |------|--------|-------|---------|---------|----------------|--------|
+| 2024.12 | AWL | ICML'25<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2411.00412)<br><img src="images/code_icon.png" width="16" height="16"> [Code]([YOUR_GITHUB_LINK](https://github.com/Rose-STL-Lab/Adapting-While-Learning)) | Scientific Reasoning,<br>Adaptive Tool Usage | Scientific Simulators | Llama-3.1-8B,<br>Qwen-2.5-{14/32}B | SFT, DPO |
 | 2024.10 | LeReT | ICLR'25<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2410.23214)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/sher222/LeReT) | IR | Dense Retriever | LLaMA3, Gemma2 | DPO-like (IPO) |
 | 2024.10 | ToolFlow | NAACL'25<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2410.18447) | Tool-Calling | Various APIs | LLaMA3.1 | SFT |
 | 2024.06 | TP-LLaMA | NeurIPS'24<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2406.07115) | Tool-Calling | Various APIs | LLaMA2 | SFT, DPO |
