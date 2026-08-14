@@ -36,6 +36,8 @@ A curated list of papers on adaptation strategies of agentic AI systems. This re
 
 ## Agent Adaptation
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT.
+
 ### A1: Tool Execution Signaled Agent Adaptation
 
 
