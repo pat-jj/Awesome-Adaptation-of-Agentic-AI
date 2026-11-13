@@ -211,6 +211,7 @@ Development Timeline:
 
 | Time | Method | Venue | Task(s) | Tool Backbone | Agent Backbone | Tuning |
 |------|--------|-------|---------|---------------|----------------|--------|
+| 2026.11 | MixUA | arXiv<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2611.10439) | Coding, Terminal Tasks, Spreadsheet Editing | Claude Opus 5 (memory writer) | Claude Code, Codex, Hermes, OpenClaw (Opus 5, Sonnet 5, GPT-5.6) | Training-Free Memory Extraction |
 | 2025.10 | QAgent | arXiv<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2510.08383)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/LivingFutureLab/QAgent) | QA, RAG | Qwen2.5-3B | Qwen-7B | GRPO |
 | 2025.10 | AgentFlow | arXiv<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2510.05592)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/lupantech/AgentFlow) | Web Search, Planning, Reasoning, Math | Qwen2.5-7B | Qwen2.5-7B | Flow-GRPO |
 | 2025.10 | Advisor Models | arXiv<br><img src="images/paper_icon.png" width="16" height="16"> [Paper](https://arxiv.org/abs/2510.02453)<br><img src="images/code_icon.png" width="16" height="16"> [Code](https://github.com/az1326/advisor-models) | Math, Reasoning | Qwen2.5-7B, Qwen3-8B | GPT-4o-Mini, GPT-5, Claude4-Sonnet, GPT-4.1-Mini | GRPO |
